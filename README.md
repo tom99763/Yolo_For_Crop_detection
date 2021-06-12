@@ -2,7 +2,7 @@
 
 Dataset (解壓縮到main) : https://drive.google.com/file/d/1xK0rd71wyaL-a2j2glBEfDiyp1NKE1b1/view?usp=sharing 
 
-trained_weights (./save/attention_model_v2.pt) : 
+trained_weights (./save/attention_model_v2.pt) : https://drive.google.com/file/d/1_tE4QMndbBQ4eRxZV0koDPAbZVkoUlAG/view?usp=sharing
 
 detect : run -- ./train/detect_whole_img.py
 
