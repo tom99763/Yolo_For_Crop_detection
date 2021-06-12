@@ -4,7 +4,7 @@ Dataset (解壓縮到main) : https://drive.google.com/file/d/1xK0rd71wyaL-a2j2gl
 
 trained_weights (./save/attention_model_v2.pt) : 
 
-detect : run ./train/detect_whole_img.py
+detect : run -- ./train/detect_whole_img.py
 
 ### Result
 
