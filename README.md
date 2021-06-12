@@ -8,7 +8,7 @@ detect : run -- ./train/detect_whole_img.py
 
 ### Result
 
-![gen1](./res/DSC081034_res.png)
-![gen2](./res/DSC082762_res.png)
-![gen3](./res/IMG_170406_040011_0054_RGB1_res.png)
-![gen4](./res/IMG_170406_040355_0241_RGB1_res.png)
+![gen1](./example/DSC082821.JPG)
+![gen2](./example/DSC082821_res.png)
+![gen3](./example/IMG_170406_035933_0023_RGB4.JPG)
+![gen4](./example/IMG_170406_035933_0023_RGB4_res.png)
